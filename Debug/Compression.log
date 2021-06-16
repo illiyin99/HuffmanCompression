@@ -1,0 +1,7 @@
+﻿  Source.cpp
+C:\Users\wafas\Desktop\Compression\Compression\Source.cpp(237,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\wafas\Desktop\Compression\Compression\Source.cpp(293,18): warning C4018: '<': signed/unsigned mismatch
+C:\Users\wafas\Desktop\Compression\Compression\Source.cpp(314,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\wafas\Desktop\Compression\Compression\Source.cpp(350,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\wafas\Desktop\Compression\Compression\Source.cpp(360,23): warning C4018: '<': signed/unsigned mismatch
+  Compression.vcxproj -> C:\Users\wafas\Desktop\Compression\Debug\Compression.exe
